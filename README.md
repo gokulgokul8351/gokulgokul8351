@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MERN stack 
 - 💞️ I’m looking to collaborate on full stack developer roll
 - 📫 How to reach me likendin - https://www.linkedin.com/in/gokul-sundharrajan
+- 📫 How to reach me gmail - gokulgokul8351@gmail.com
 
 <!---
 gokulgokul8351/gokulgokul8351 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
